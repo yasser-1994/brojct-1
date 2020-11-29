@@ -1,0 +1,106 @@
+/* --============upper-start============-- */
+@media (max-width:576px){
+  .upper-bar{
+    font-size: 12px
+ }
+}
+/*--============upper-end============--*/
+
+/* ==========slider-start ===========*/
+@media (max-width:767px){
+  .slider .carousel-inner h1{
+    font-size: 35px;
+  }
+}
+@media (min-width:768px) and (max-width:1199px){
+  .slider .carousel-inner h1{
+    font-size: 60px;
+  }
+}
+/* ========slider-end =========*/
+
+/* ===========Overview start============ */
+@media (max-width:767px){
+  .overview{padding: 20px 0;}
+  .overview p{font-size: 14px;}
+}
+/* ===========Overview end============ */
+
+/* -- ========featured-work start========= -- */
+@media (max-width:767px){
+  .featured-work p{font-size: 14px;}
+}
+/* -- ========featured-work end========= -- */
+
+/* --========latest post start=========-- */
+@media (max-width:767px){
+  .latest-post p{font-size: 14px;}
+ .latest-post{padding: 0;}
+}
+/* --========latest post end=========-- */
+
+/* ==========testimonials-start ===========*/
+@media  (max-width:767px) {
+  .testimonials .carousel .carousel-caption h3, .testimonials .carousel .carousel-caption p{
+     font-size: 14px;
+  }
+  .testimonials .carousel-control-prev-icon, .testimonials .carousel-control-next-icon{
+    padding: 15px;
+    background-color: var(--hover-color);
+  }
+}
+@media  (min-width:600px) and (max-width:991px){
+  .testimonials .carousel .carousel-caption p{
+      font-size: 15px;
+  }
+}
+/* ==========testimonials-end===========*/
+
+/* ========Pricing-Table start========= */
+  @media (max-width:767px){
+    .Pricing-Table p{font-size: 14px;}
+}
+/* ========Pricing-Table end========= */
+
+/* ========why-Choose-Us start========= */
+@media (max-width:767px){
+  .why-Choose-Us{text-align: center;}
+  .why-Choose-Us .info p{font-size: 14px;}
+}
+/* ========why-Choose-Us end========= */
+
+/* ========= Statistics-start ========= */
+@media (max-width:767px){
+  .statistics{padding: 15px;}
+}
+/* ========= Statistics-end ========= */
+
+/* ========= contact-us start========= */
+@media (max-width:767px){
+  .contact-us h4{text-align: center; margin-bottom: 25px;}
+  .contact-us button{display: block; margin: 0 auto;}
+}
+@media (min-width:768px) and (max-width:991px){
+  .contact-us h4{font-size: 21px;}
+  .contact-us button{margin-bottom: 5px;}
+}
+/* ========= contact-us end========= */
+
+/* ==========footer start========== */
+@media (max-width:767px){
+  .footer{
+    padding: 0;
+  }
+  .footer .foot-3 p{
+    margin: 0;
+  }
+}
+/* ==========footer end========== */
+/* --=========start the end=========-- */
+@media (max-width:767px){
+  .the-end a{
+    margin: auto;
+    padding:0 5px;
+  }
+}
+/* --=========end the end=========-- */
