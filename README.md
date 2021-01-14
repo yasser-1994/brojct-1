@@ -1,2 +1,2 @@
-# brojct-1
+# project-1
 * [Url Demo](https://ym-mo-bi-99.netlify.app/)
